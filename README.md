@@ -3,9 +3,9 @@
 ## Table of contents
 
 * [Description](#Description)
-* [District Summary](#District_Summary)
-* [School Summary](#School_Summary)
-* [Schools Performance](#Schools_Performance)
+* [District Summary](#District-Summary)
+* [School Summary](#School-Summary)
+* [Schools Performance](#Schools-Performance)
 * [Questions](#Questions)
 * [References](#References)
 
